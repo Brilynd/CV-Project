@@ -1,0 +1,15 @@
+html{
+  background: linear-gradient(90deg, #84FAB0 0%, #8FD3F4 100%);
+  overflow-x: hidden;
+}
+
+.App-Container{
+  display: flex;
+}
+.Form-Container{
+  margin-left: 10%;
+  width: 45%;
+}
+.Display-Container{
+  width: 40%;
+}

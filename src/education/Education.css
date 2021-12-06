@@ -1,0 +1,17 @@
+.Card-Display{
+    padding: 2% 0%;
+    width: 50%;
+    text-align: center;
+    background-color:#EBEBEB ;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border-radius: 16px;
+}
+.Card-Display h1{
+    
+    font-size: 2em;
+    font-style: normal;
+    font-weight: normal;
+    font-family: Roboto, sans-serif ;
+    padding-bottom: 3%;
+}

@@ -1,0 +1,27 @@
+.Card-Contianer{
+    padding: 2% 5%;
+    margin-top: 50%;
+    background-color: #F3F3F3;
+    min-height: 70vh;
+    border-radius: 16px;
+}
+
+.General-Container{
+
+}
+
+.Education-Container{
+    text-align: left;
+}
+
+.Practical-Container{
+text-align: left;
+}
+#Education{
+    text-align: center;
+    text-decoration:underline;
+}
+#Practical{
+    text-align: center;
+    text-decoration: underline;
+}
